@@ -10,11 +10,6 @@
 public class ArabicToCardinalConvertor extends Converter {
     
     private String finalString = "";
-    
-    @Override
-    public void validateString(String cadena) {
-        
-    }
 
     @Override
     public String getConversion(String cadena) {
